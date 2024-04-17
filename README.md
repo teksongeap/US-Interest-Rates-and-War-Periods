@@ -1,2 +1,2 @@
 # interest-rates-and-war
- Looking at interest rates and US periods of conflict
+ Looking at federal funds rates and US periods of conflict.
